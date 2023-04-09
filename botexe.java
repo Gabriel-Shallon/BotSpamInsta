@@ -5,7 +5,9 @@ public class botexe{
             public static void main(String[] args) {
             try {
 
-                int delay = 1000; // intervalo entre os cliques
+
+
+                int delay = 2900; // intervalo entre os cliques
                 int repeat = 9999; //repetições
                 String text = "info"; //texto
                  //hashtag
